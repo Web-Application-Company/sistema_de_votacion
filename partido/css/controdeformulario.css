@@ -1,0 +1,250 @@
+
+header{
+  text-align: center;
+  color: #3C82C0;
+  font-family: Arial Black;
+  background-color: #FFFFFF;
+  width: 80%;
+  border-radius: 7px;
+  position: relative;
+  left: 10%;
+  border-radius: 5px;
+  font-style: Arial Black;
+}
+
+
+
+.containeer{
+
+
+  ;
+  border-radius: 7px;
+  position: relative;
+  left: 10%;
+  border-radius: 5px;
+  margin-left: 300px;
+}
+
+
+.regreso{
+  text-align: right;
+}
+
+
+
+
+.dui {
+  width: 10%;
+}
+.dui {
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.dui{
+	float: left;
+}
+.duit {
+	width: 20%;
+  
+}
+.duit{
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.duit{
+	float: left;
+}
+.nom {
+  width: 10%;
+}
+.nom {
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.nom{
+	float: left;
+}
+.nomt {
+	width: 40%;
+  
+}
+.nomt{
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.nomt{
+	float: left;
+}
+
+.apell {
+  width: 10%;
+}
+.apell {
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+
+}
+.apell{
+	float: left;
+}
+.apellt {
+	width: 40%;
+  
+}
+.apellt{
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.apellt{
+	float: left;
+}
+.foto {
+  width: 10%;
+}
+.foto {
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.foto{
+	float: left;
+}
+.fotot {
+	width: 40%;
+  
+}
+.fotot{
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.fotot{
+	float: left;
+}
+.calen {
+  width: 10%;
+}
+.calen {
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.calen{
+	float: left;
+}
+.calent {
+	width: 40%;
+  
+}
+.calent{
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.calent{
+	float: left;
+}
+
+.dire {
+	width: 80%;
+  
+}
+.dire{
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.dire{
+	float: left;
+}
+.depa {
+  width: 11%;
+}
+.depa {
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.depa{
+	float: left;
+}
+
+.depat {
+  width: 35%;
+}
+.depat {
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.depat{
+	float: left;
+}
+.muni {
+  width: 11%;
+}
+.muni {
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.muni{
+	float: left;
+}
+.btn1 {
+ 
+ 
+	position: absolute;
+	
+	
+	margin: -100px 0px 0px -200px;
+	top: 50%;
+	left: 65%;
+}
+
+}
+.btn2 {
+	
+	position: absolute;
+	
+	
+	margin: -100px 0px 0px -200px;
+	top: 50%;
+	left: 65%;
+  
+}
+
+.duipar {
+  width: 25%;
+  
+}
+.duipar{
+ position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.duipar{
+  float: left;
+}
+

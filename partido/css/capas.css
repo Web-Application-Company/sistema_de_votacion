@@ -1,0 +1,185 @@
+
+
+
+.capa1{
+
+	
+	background-color: rgb(0,0,10); opacity: 0.5;
+	border-radius: 10px;
+	position: absolute;
+	width: 250px;
+	height: 200px;
+	margin: -100px 0px 0px -200px;
+	top: 50%;
+	left: 85%;
+	
+}
+.principal{
+
+	
+	background-color: #ffffff;
+	
+	position: absolute;
+	width: 80%;
+	height: 60%;
+	margin: -100px 0px 0px -200px;
+	top: 50%;
+	left: 25%;
+	
+}
+.capa3{
+
+	
+	background-color: rgb(0,0,10); opacity: 0.5;
+	border-radius: 10px;
+	position: absolute;
+	width: 250px;
+	height: 200px;
+	margin: -100px 0px 0px -200px;
+	top: 50%;
+	left: 45%;
+	
+}
+.capa4{
+
+	
+	background-color: rgb(0,0,10); opacity: 0.5;
+	position: absolute;
+	border-radius: 10px;
+	width: 250px;
+	height: 200px;
+	margin: -100px 0px 0px -200px;
+	top: 50%;
+	left: 65%;
+	
+}
+.capa5{
+
+	
+	background-color: rgb(0,0,10); opacity: 0.5;
+	border-radius: 10px;
+	position: absolute;
+	width: 250px;
+	height: 200px;
+	margin: -100px 0px 0px -200px;
+	top: 80%;
+	left: 85%;
+	
+}
+.capa6{
+
+	
+	background-color: rgb(0,0,10); opacity: 0.5;
+	position: absolute;
+	width: 250px;
+	height: 200px;
+	margin: -100px 0px 0px -200px;
+	top: 80%;
+	left: 25%;
+	
+}
+.capa7{
+
+	
+	background-color: rgb(0,0,10); opacity: 0.5;
+	position: absolute;
+	width: 250px;
+	height: 200px;
+	margin: -100px 0px 0px -200px;
+	top: 80%;
+	left: 45%;
+	
+}
+.capa8{
+
+	
+	background-color: rgb(0,0,10); opacity: 0.5;
+	position: absolute;
+	width: 250px;
+	height: 200px;
+	margin: -100px 0px 0px -200px;
+	top: 80%;
+	left: 65%;
+	
+}
+
+nav ul li{
+display:inline-block;
+margin:8px;
+padding-top: 20px;
+right: 10px;
+
+}
+
+
+ a {
+	padding: 4px;
+	height: 25px;
+	border: 1px solid black;
+	border-radius: 20px;
+	background: #006AA9;
+	color: black;
+	text-decoration: none;
+	position: absolute;
+	top: 10%;
+	left: 5%;
+
+}
+
+a:hover {
+	border: 1px solid black;
+	border-radius: 20px; 
+	background:  white;
+	color:black;
+	text-decoration: none;
+	position: absolute;
+	top: 10%;
+	left: 5%;
+
+}
+h1{
+	text-shadow: 5px 5px 5px #cecece;
+	text-align: center;
+	color: #006AA9;
+}
+form {
+	position: absolute;
+	width: 500px;
+	height: 400px;
+	margin: -100px 0px 0px -200px;
+	top: 40%;
+	left: 50%;
+
+}
+p{
+	position: absolute;
+	color: #5BC0DE;
+	top: 30%;
+	left: 10%
+
+
+}
+.a{
+	padding: 4px;
+	height: 25px;
+	border: 1px solid black;
+	border-radius: 20px;
+	background: #006AA9;
+	color: black;
+	text-decoration: none;
+	position: absolute;
+	top: 10%;
+	left: 13%;
+
+}
+.a:hover {
+	border: 1px solid black;
+	border-radius: 20px; 
+	background:  white;
+	color:black;
+	text-decoration: none;
+	position: absolute;
+	top: 10%;
+	left: 13%;
+
+}

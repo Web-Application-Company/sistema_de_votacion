@@ -1,0 +1,35 @@
+body{
+				background:#333 url(../../img/fondo.jpg) repeat top left;
+				font-family:Arial;
+			}
+			span.reference{
+				position:fixed;
+				left:10px;
+				bottom:0px;
+				font-size:12px;
+			}
+			
+			span.reference a:hover{
+				color:#ddd;
+			}
+			ul.sdt_menu{
+				margin-top:100px;
+
+			}
+
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #D0D0D0;
+}
+
+.jumbotron {
+  border-radius: 6px;
+}
+.jumbotron  {
+  width: 70%;
+  height: 54%;
+  position: absolute;
+  left: 15%;
+}

@@ -1,0 +1,23 @@
+Usuario: lobos
+password: 123
+
+url
+	http://127.0.0.1/partido/reporte1/reporteAlcaldes.php">Alcaldes-Graficos
+	http://localhost/partido/diputado/resul.php">Diputados-Resultados
+	http://127.0.0.1/partido/reporte1/reporteDiputados.php">Diputados-Graficos
+	http://localhost/partido/presidente/resul.php">Presidenciales-Resultados
+	http://127.0.0.1/partido/reporte1/reportePresidencial.php">Presidenciales-Graficos
+	http://127.0.0.1/partido/index.php
+
+
+datos de votante: 
+ubicacion en DB partido.ciudadano
+
+nombre:Tatiana
+apellidos:Gutierres
+dui:12345666-6
+genero: Femenino
+municipio: Zacatecoluca
+departamento: La paz
+fecha_vencimiento: 2016-07-05
+estado : 0
